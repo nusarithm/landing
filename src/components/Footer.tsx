@@ -33,7 +33,7 @@ export function Footer() {
                 </a>
               </li>
               <li>
-                <a href="/policy-pivacy" className="text-slate-400 hover:text-white transition-colors duration-300 text-sm">
+                <a href="/policy-privacy" className="text-slate-400 hover:text-white transition-colors duration-300 text-sm">
                   Policy & Privacy
                 </a>
               </li>

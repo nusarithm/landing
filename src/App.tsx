@@ -2,7 +2,7 @@ import { Header, Footer, HeroSection, AboutSection, SkillsSection, ProjectsSecti
 
 function App() {
   const path = typeof window !== 'undefined' ? window.location.pathname : '/';
-  const isPolicy = path === '/policy-pivacy' || path === '/policy-pivacy/';
+  const isPolicy = path === '/policy-privacy' || path === '/policy-privacy/';
   const isTerms = path === '/terms-of-service' || path === '/terms-of-service/';
 
   return (
